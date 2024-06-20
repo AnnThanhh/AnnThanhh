@@ -8,23 +8,56 @@
 
 💻 Languages & Frameworks:
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+  <!-- HTML5 -->
+  <img src="https://simpleicons.org/icons/html5.svg" alt="HTML5" width="40" height="40"/>
+  
+  <!-- CSS3 -->
+  <img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="40" height="40"/>
+  
+  <!-- JavaScript -->
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+  
+  <!-- SASS -->
+  <img src="https://simpleicons.org/icons/sass.svg" alt="SASS" width="40" height="40"/>
+  
+  <!-- React -->
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="40" height="40"/>
+  
+  <!-- Bootstrap -->
+  <img src="https://simpleicons.org/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+  
+  <!-- Tailwind CSS -->
+  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+  
+  <!-- Material UI -->
+  <img src="https://simpleicons.org/icons/material-ui.svg" alt="Material UI" width="40" height="40"/>
+  
+  <!-- Ant Design -->
+  <img src="https://simpleicons.org/icons/antdesign.svg" alt="Ant Design" width="40" height="40"/>
+  
+  <!-- Node.js -->
+  <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
+  
+  <!-- TypeScript -->
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+  
+  <!-- Next.js -->
+  <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="Next.js" width="40" height="40"/>
+  
+  <!-- Vite -->
+  <img src="https://simpleicons.org/icons/vite.svg" alt="Vite" width="40" height="40"/>
+  
+  <!-- NestJS -->
+  <img src="https://simpleicons.org/icons/nestjs.svg" alt="NestJS" width="40" height="40"/>
+  
+  <!-- MySQL -->
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+  
+  <!-- GraphQL -->
+  <img src="https://simpleicons.org/icons/graphql.svg" alt="GraphQL" width="40" height="40"/>
+  
+  <!-- Socket.IO -->
+  <img src="https://simpleicons.org/icons/socket-dot-io.svg" alt="Socket.IO" width="40" height="40"/>
 </p>
 
 🛠 Tools:
