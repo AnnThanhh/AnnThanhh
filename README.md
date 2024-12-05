@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=F3D7CA&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hi+I'm+An+Thanh!+👋;+I'm+come+from+VietNam;" />
+</h1>
+
+
 🤖 **About Me:**
 - 👋 Hi, I’m Trịnh An Thành, and also known as AT
 - 🔭 Major: Economics and Finance, Minor: Logistics and Supply Chain Management
@@ -35,15 +40,26 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnnThanhh/AnnThanhh/output/github-snake.svg" />
 </picture>
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnThanhh&layout=compact&theme=tokyonight)
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnThanhh&layout=compact&theme=tokyonight" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnThanhh&show_icons=true&theme=tokyonight)
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnnThanhh&rank_icon=github&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight)
+<div  align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=dracula&no-frame=true&column=4&margin-w=10" />
+</div>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=dracula&no-frame=true&column=4&margin-w=10)](https://github.com/AnnThanhh)
+
+
+
 
 
 
