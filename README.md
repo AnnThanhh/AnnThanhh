@@ -54,7 +54,7 @@
 </div>
 
 <div  align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=dracula&no-frame=true&column=4&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
 </div>
 
 
