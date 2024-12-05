@@ -28,15 +28,16 @@
 </p>
 
 📈 **Github Charts**
-![](https://raw.githubusercontent.com/AnnThanhh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnnThanhh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnThanhh&theme=dracula&hide_border=true&width=1000)
 
-💥 **Github Streaks** 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=dracula)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnThanhh&layout=compact&theme=tokyonight)
 
-🏆 **Github Trophies**
-![](https://github-profile-trophy.vercel.app/?username=meicloudie&theme=dracula&no-frame=true&column=4&margin-w=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnThanhh&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=dracula&no-frame=true&column=4&margin-w=10)](https://github.com/AnnThanhh)
+
+
 
 
 
