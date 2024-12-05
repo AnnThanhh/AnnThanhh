@@ -49,8 +49,8 @@
 </div>
 
 <div  align="center">
-  <img width="400px" height="600px" src="https://github-readme-stats.vercel.app/api?username=AnnThanhh&rank_icon=github&theme=tokyonight" />
-  <img width="400px" height="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight" />
+  <img width="400px"  src="https://github-readme-stats.vercel.app/api?username=AnnThanhh&rank_icon=github&theme=tokyonight" />
+  <img width="400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight" />
 </div>
 
 <div  align="center">
