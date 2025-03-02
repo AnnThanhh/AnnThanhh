@@ -9,7 +9,6 @@
 - 👀 I’m interested in coding, data analysis, and blockchain technology
 - 🌱 I’m currently Full-Stack deverloper at CyberSoft 
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/an-thanh-trinh-375164266) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:trinhanthanh@example.com)
-- ⚡ Fun fact: I enjoy playing football and my favorite team is Real Madrid, with 15 Champions League titles
 
 💻 **Languages & Frameworks:**
 <p>
