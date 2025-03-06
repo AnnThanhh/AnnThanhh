@@ -10,27 +10,47 @@
 - 🌱 I’m currently Full-Stack deverloper at CyberSoft 
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/an-thanh-trinh-375164266) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:trinhanthanh@example.com)
 
-💻 **Languages & Frameworks:**
+💻 **Languages:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,mysql,postgres,mongodb,nestjs,graphql,fastapi,express,react,nodejs,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,selenium&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts&perline=6" />
   </a>
 </p>
 
-⚙️ **ORM:** 
+🗄️ **Databases:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,sequelize&perline=9" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
   </a>
 </p>
 
-🛠 **Tools:**
+🌐 **Backend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,vercel,firebase,figma,anaconda,docker&perline=9" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=6" />
   </a>
 </p>
 
+🎨 **Frontend Tech:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=6" />
+  </a>
+</p>
+
+🛠 **Tools:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=6" />
+  </a>
+</p>
+
+🧪 **Testing & Automation:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium&perline=6" />
+  </a>
+</p>
 📈 **Github Charts**
 
  <picture>
