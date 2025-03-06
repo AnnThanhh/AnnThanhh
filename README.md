@@ -13,7 +13,7 @@
 💻 **Languages & Frameworks:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,mysql,postgres,nestjs,graphql,fastapi,express,react,nodejs,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui&perline=9" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,mysql,postgres,mongodb,nestjs,graphql,fastapi,express,react,nodejs,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,selenium&perline=9" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 🛠 **Tools:**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,vercel,firebase,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,vercel,firebase,figma,anaconda,docker&perline=9" />
   </a>
 </p>
 
