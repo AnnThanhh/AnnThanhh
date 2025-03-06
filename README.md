@@ -11,6 +11,14 @@
   📍 Based in Vietnam  
 </p>
 
+<h2 align="center">📫 Let's Connect!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/an-thanh-trinh-375164266"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:trinhanthanh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/anthanhhh/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/anthanhhhhh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
 💻 **Languages:**  
 <p>
   <a href="https://skillicons.dev">
@@ -21,14 +29,14 @@
 🌐 **Backend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=8" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=15" />
   </a>
 </p>
 
 🎨 **Frontend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=15" />
   </a>
 </p>
 
@@ -49,7 +57,7 @@
 🛠 **Tools:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=15" />
   </a>
 </p>
 
