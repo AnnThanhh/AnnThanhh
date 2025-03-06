@@ -13,10 +13,10 @@
 
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/an-thanh-trinh-375164266"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:trinhanthanh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.facebook.com/anthanhhh/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/anthanhhhhh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/an-thanh-trinh-375164266"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5&color=gray" alt="LinkedIn"></a>
+  <a href="mailto:trinhanthanh@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&labelColor=D14836&color=gray" alt="Email"></a>
+  <a href="https://www.facebook.com/anthanhhh/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&labelColor=1877F2&color=gray" alt="Facebook"></a>
+  <a href="https://www.instagram.com/anthanhhhhh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F&color=gray" alt="Instagram"></a>
 </p>
 
 💻 **Languages:**  
