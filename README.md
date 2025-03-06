@@ -1,19 +1,41 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=F3D7CA&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Hi+I'm+An+Thanh!+👋;+I'm+come+from+VietNam;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&height=80&lines=Hey+there,+I'm+An+Thanh!+👋;A+Full-Stack+Dev+from+Vietnam!;Passionate+about+Code+&+Blockchain;" alt="Typing SVG" />
+</p>
 
 
-🤖 **About Me:**
-- 👋 Hi, I’m Trịnh An Thành, and also known as AT
-- 🔭 Major: Economics and Finance, Minor: Logistics and Supply Chain Management
-- 👀 I’m interested in coding, data analysis, and blockchain technology
-- 🌱 I’m currently Full-Stack deverloper at CyberSoft 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/an-thanh-trinh-375164266) [![Email](https://img.shields.io/badge/Email-Send%20Mail-red)](mailto:trinhanthanh@example.com)
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  I'm Trịnh An Thành (a.k.a AT), a Full-Stack Developer at CyberSoft.  
+  🎓 Major: Economics and Finance | Minor: Logistics and Supply Chain Management  
+  💻 Passionate about coding, data analysis, and blockchain technology  
+  📍 Based in Vietnam  
+</p>
 
 💻 **Languages:**  
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts&perline=6" />
+  </a>
+</p>
+
+🌐 **Backend Tech:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=8" />
+  </a>
+</p>
+
+🎨 **Frontend Tech:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=8" />
+  </a>
+</p>
+
+🧪 **Testing & Automation:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium&perline=6" />
   </a>
 </p>
 
@@ -24,33 +46,13 @@
   </a>
 </p>
 
-🌐 **Backend Tech:**  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=6" />
-  </a>
-</p>
-
-🎨 **Frontend Tech:**  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=6" />
-  </a>
-</p>
-
 🛠 **Tools:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=8" />
   </a>
 </p>
 
-🧪 **Testing & Automation:**  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium&perline=6" />
-  </a>
-</p>
 📈 **Github Charts**
 
  <picture>
