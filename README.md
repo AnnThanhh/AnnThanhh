@@ -5,7 +5,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-  I'm Trịnh An Thành (a.k.a AT), a Full-Stack Developer at CyberSoft.  
+  I'm Trịnh An Thành (a.k.a AT), a Software Developer at CyberSoft.  
   🎓 Major: Economics and Finance | Minor: Logistics and Supply Chain Management  
   💻 Passionate about coding, data analysis, and blockchain technology  
   📍 Based in Vietnam  
