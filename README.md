@@ -22,21 +22,21 @@
 💻 **Languages:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,dart&perline=6" />
   </a>
 </p>
 
 🌐 **Backend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize&perline=15" />
+    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize,dotnet&perline=15" />
   </a>
 </p>
 
 🎨 **Frontend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite&perline=15" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite,flutter&perline=15" />
   </a>
 </p>
 
