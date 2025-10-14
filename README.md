@@ -22,21 +22,28 @@
 💻 **Languages:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,dart&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,dart&perline=15" />
   </a>
 </p>
 
 🌐 **Backend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,express,nestjs,nodejs,graphql,prisma,sequelize,dotnet&perline=15" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma,sequelize,dotnet,redis,nginx&perline=15" />
   </a>
 </p>
 
 🎨 **Frontend Tech:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite,flutter&perline=15" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,bootstrap,sass,tailwind,materialui,vite,nuxt&perline=15" />
+  </a>
+</p>
+
+📱 **Mobile Development:**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&perline=10" />
   </a>
 </p>
 
@@ -54,10 +61,10 @@
   </a>
 </p>
 
-🛠 **Tools:**  
+🛠 **Tools & DevOps:**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,npm,yarn,bun,postman,github,git,vercel,firebase,figma,anaconda,docker,jira&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github,gitlab,vercel,netlify,docker,nginx,firebase,figma,jira,notion&perline=15" />
   </a>
 </p>
 
