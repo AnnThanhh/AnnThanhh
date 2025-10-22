@@ -75,6 +75,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnThanhh/AnnThanhh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnnThanhh/AnnThanhh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AnnThanhh/AnnThanhh/output/github-snake.svg" />
+   <figure><embed src="https://wakatime.com/share/@84b58486-f3dc-4a65-832e-c16e2df82d47/2baf3b06-7f42-420c-94d5-41ab2b08d643.svg"></embed></figure>
 </picture>
 
 <div align="center">
