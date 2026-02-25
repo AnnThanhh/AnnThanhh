@@ -82,17 +82,10 @@
 </div>
 
 <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnThanhh&layout=compact&theme=tokyonight" />
-</div>
-
-<div  align="center">
-  <img width="350px" height="142px"  src="https://github-readme-stats.vercel.app/api?username=AnnThanhh&rank_icon=github&theme=tokyonight" />
   <img width="360px"  src="https://github-readme-streak-stats.herokuapp.com/?user=AnnThanhh&theme=tokyonight" />
 </div>
 
-<div  align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnnThanhh&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
-</div>
+
 
 
 
