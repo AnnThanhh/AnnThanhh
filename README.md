@@ -14,7 +14,7 @@
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   🌐 Check out my Portfolio:
-  <a href="https://trinhanthanh.com">
+  <a href="https://trinhanthanh.com" target="_blank" rel="noopener noreferrer">
     <strong>trinhanthanh.com</strong>
   </a>
 </p>
